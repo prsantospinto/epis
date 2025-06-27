@@ -1,4 +1,4 @@
-# Sistema de Gestão de EPIs - SGOES
+# Sistema de Gestão de EPIs
 # epis
 # epis
 # epis
